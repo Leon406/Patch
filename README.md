@@ -41,7 +41,6 @@ dependencies {
 ```
  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-
  <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES"/>
 ```
 
