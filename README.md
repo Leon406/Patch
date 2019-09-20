@@ -14,6 +14,8 @@
 
 --prepare 第三方c库
 
+--bsdiff4.3-win32  windows 下bsdiff, 主要用于生成差分包
+
 
 
 **如何使用**
@@ -42,4 +44,6 @@ dependencies {
 
  <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES"/>
 ```
+
+
 
